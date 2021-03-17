@@ -1,0 +1,37 @@
+.container1 .table1, .table1 th{
+  border:1px solid black;
+}
+
+.container1{
+  margin: 0px auto;
+  width:600px;
+  height: 300px;
+}
+
+.table1{
+  width: 650px;
+  height: 250px;
+  font-size: 17px;
+}
+
+.table1 tbody tr td{
+  border:1px solid black;
+  padding: 7px;
+}
+
+.edit{
+  text-decoration: none;
+  color:rgb(7, 179, 247);
+  padding: 10px;
+}
+
+.delete{
+  text-decoration: none;
+  color:rgb(247, 7, 7);
+  padding: 10px;
+}
+
+body{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
